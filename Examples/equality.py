@@ -3,7 +3,7 @@
 # values
 
 car = 'bmw'
-print(car == 'bmw')
+print(car == 'bmw') # prints True
 
 
 
