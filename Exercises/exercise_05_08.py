@@ -20,7 +20,7 @@ if 'admin' in usernames:
 #   - Otherwise, print a generic greeting, such as
 #     "Hello Eric, thank you for logging in again."
 
-if usernames:
+if usernames: # try else and see what happens
     for username in usernames:
         if username != 'admin':
             print("Hello " + username.title() + "! Thank you for logging in again!")
