@@ -1,7 +1,8 @@
 # Python Crash Course - Chapter 5 Exercises and Solutions
 
 This repository contains the Examples, Exercises, and Solutions 
-for Chapter 5 of Python Crash Course by Eric Matthes.
+for Chapter 5 of Python Crash Course by Eric Matthes, which 
+covers if statements, conditional tests.
 
 I created this repository for two reasons. First, I wanted to 
 incorporate Git and GitHub with Python and Vim into my workflow,
@@ -11,7 +12,7 @@ a Fedora 37 system in a VirtualBox environment to create, use, and
 manage directories and files as I work through Matthes' Python Crash
 Course book.
 
-Please feel free to reach oiut to me at matthewjohnson@snarkydata.com
+Please feel free to reach out to me at matthewjohnson@snarkydata.com
 if you have any questions or comments. In addition, feel free to 
 utilize the exercises and solutions for your consumption and 
 edification. 
